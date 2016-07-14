@@ -1,4 +1,4 @@
-package com.gucheng.gc_demo_collector;
+package com.gucheng.gc_zoom;
 
 import org.junit.Test;
 
